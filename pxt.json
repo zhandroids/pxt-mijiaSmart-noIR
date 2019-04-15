@@ -1,0 +1,19 @@
+{
+    "name": "pxt-mijiaSmart-noIR",
+    "version": "0.0.1",
+    "description": "米加机器人",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "pxt-MuVisionSensor":"github:zhandroids/pxt-MuVisionSensor"
+    },
+    "files": [
+        "maqueen.ts",
+        "_locales/zh/pxt-mijiaSmart-jsdoc-strings.json",
+        "_locales/zh/pxt-mijiaSmart-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true
+}
