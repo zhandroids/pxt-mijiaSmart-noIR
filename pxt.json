@@ -8,8 +8,8 @@
     },
     "files": [
         "maqueen.ts",
-        "_locales/zh/pxt-mijiaSmart-jsdoc-strings.json",
-        "_locales/zh/pxt-mijiaSmart-strings.json"
+        "_locales/zh/pxt-mijiaSmart-noIR-jsdoc-strings.json",
+        "_locales/zh/pxt-mijiaSmart-noIR-strings.json"
     ],
     "testFiles": [
         "tests.ts"
